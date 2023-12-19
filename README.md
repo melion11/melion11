@@ -5,7 +5,7 @@ My name is Ilya Grinyak, and I'm a Frontend developer. Welcome to my GitHub prof
 ## About Me
 
 * 🌍  I'm based in Minsk
-* 🖥️  See my portfolio at comming soon...
+* 🖥️  See my portfolio at [melion11.github.io/portfolio-new/](https://melion11.github.io/portfolio-new/)
 * ✉️  You can contact me at [ilagrinak@gmail.com](mailto:ilagrinak@gmail.com)
 * 🤝  I'm open to collaborating on interesting projects
 <hr>
